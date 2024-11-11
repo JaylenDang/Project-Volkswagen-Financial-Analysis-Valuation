@@ -24,9 +24,9 @@ The project involved the following steps:
 - **Additional Findings**: Strategic insights into how leverage may influence Volkswagen's competitive position in a challenging automotive market.
 
 ## Files
-- **`valuation_analysis.xlsx`**: Excel spreadsheet containing detailed calculations for valuation and WACC.
-- **`eps_sensitivity_chart.png`**: Graphical representation of EPS sensitivity across different EBIT scenarios.
-- **`project_report.pdf`**: Full report detailing analysis, findings, and recommendations.
+- **`VOWG Financial Analysis + Valuation.xlsx`**: Excel spreadsheet financial modeling containing detailed calculations for valuation and WACC.
+- **`Volkswagen_case_study.pdf`**: Overview document of the company, listing all tasks I need to do for the project.
+- **`Evaluation + Workings.pdf`**: Full report detailing analysis, findings, data visualization charts and recommendations.
 
 ## Technologies Used
 - **Microsoft Excel** for financial modeling and data analysis.
